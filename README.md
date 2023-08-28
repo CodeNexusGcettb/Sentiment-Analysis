@@ -1,7 +1,7 @@
 
 # Sentiment Analysis
 
-It is a Natural Language Processing Model which classifies sentences into Postive, Negative and Neutral tones. It utilises Supervised Machine Learning Random Forest Model to predict the results.
+It is a Natural Language Processing Model which classifies sentences into Positive, Negative and Neutral tones. It utilises Supervised Machine Learning Random Forest Model to predict the results.
 
 
 ## Want to run on your computer ?
